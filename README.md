@@ -21,13 +21,13 @@ I give you the:
 
 Ez3D-TP (Toilet Paper) and Ez3D-PT (Paper Towel) - Test flights pending....
 
-![IMG_8647](https://github.com/user-attachments/assets/f71b8176-700e-4ed2-af4a-6f136d6d7f0e)
+Photo pending...
 
 
 
 ## 3. Some of us believe in aliens from outer space! Are you hiding the saucer? 
 
-Not at all! Disclaimer - has not been test flow yet. I'll update this page when it is. 
+Not at all! The mini saucer flies about 50ft on an A10-0T
 
 ![IMG_8648](https://github.com/user-attachments/assets/9d220f7c-25e3-4a93-9b8a-110d2791db95)![IMG_8649](https://github.com/user-attachments/assets/5297a3e6-19c3-481d-bf35-ac3d5ae38bab)
 
