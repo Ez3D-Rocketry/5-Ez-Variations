@@ -7,10 +7,9 @@
 In my early days of 3D printing, I struggled to complete taller prints. In fact, 3D printing can often be an exercise in frustration. This is why I focused on short fin cans.
 
 That said, I have added a Ez3D-Mini with a the fully printed body tube. Empty mass is 10g (+30%) heavier than the part cardboard body tube version.  
-Where/How to attach the recovery harness? I drilled a small hole in the fin and nose cone. Still flies just fine on a A3 with 4 seconds of delay. A10-3T and A3-2T work as well
+Where/How to attach the recovery harness? I drilled a small hole in the fin and nose cone. Still flies just fine on a A3 with 4 seconds of delay. A10-3T and A3-2T work as well.
 
-![IMG_8643](https://github.com/user-attachments/assets/c7919181-2532-4b64-941a-cb67dbfd9917)
-
+![IMG_8780](https://github.com/user-attachments/assets/1de6fb08-babd-45be-a110-a04ec1147466)
 
 
 ## 2. Can't you make a design that uses toilet paper and paper towel tubes? What's going on? Are you pushing the commercial tubes because you're beholden to Big Cardboard? What happened to reuse and recycle??
