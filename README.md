@@ -45,6 +45,6 @@ Want to try clustering motors? The X+ verisons of the saucer are a great place t
 
 I have something for that too! "Fully Integrated Fin Can" that fits a BT70 and BT80 are in development. 
 
-Very preliminary design. Has not been flow. Tape at the top is for a better ejection gas seal. Theoretically. 
+Very preliminary design. Has flown a few times. Watch this space for updates......
 
 ![IMG_8650](https://github.com/user-attachments/assets/00b47c1e-2d10-4a09-a7e4-66c7f07bbf1a)
