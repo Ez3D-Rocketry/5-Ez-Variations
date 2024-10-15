@@ -24,6 +24,10 @@ The Toilet Paper roll version flies similar to the Ez3D-Mini.
 ![IMG_8782](https://github.com/user-attachments/assets/5fecc78d-47f2-437e-9925-f97b0ea6e886)
 
 
+
+https://github.com/user-attachments/assets/0072b047-907d-40e6-9cdf-868e7a5380e1
+
+
 Stand by for info on the PT version...
 
 
